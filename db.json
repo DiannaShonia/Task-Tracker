@@ -15,14 +15,8 @@
     {
       "text": "Do The Wap Dance",
       "day": "EveryDay",
-      "reminder": true,
+      "reminder": false,
       "id": 3
-    },
-    {
-      "text": "Learn the poem",
-      "day": "Feb 8, 9:22pm",
-      "reminder": true,
-      "id": 4
     }
   ]
 }
