@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th, 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at school",
+      "day": "Feb 6th, 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Do The Wap Dance",
+      "day": "EveryDay",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Learn the poem",
+      "day": "Feb 8, 9:22pm",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
